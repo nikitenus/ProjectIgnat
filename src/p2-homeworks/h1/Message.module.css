@@ -1,3 +1,17 @@
-.message {
+.shell {
+    width: 1200px;
+    background-color: gray;
+}
 
+.message {
+    padding: 5% 10%;
+    background-color: yellow;
+    width: 100px;
+    height: 10px;
+
+}
+
+.ava {
+    border-radius: 50%;
+    height: 100px;
 }
